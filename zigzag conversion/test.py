@@ -1,0 +1,16 @@
+Your input
+"PAYPALISHIRING"
+3
+Output
+"PAHNAPLSIIGYIR"
+Expected
+"PAHNAPLSIIGYIR"
+
+
+Your input
+"PAYPALISHIRING"
+4
+Output
+"PINALSIGYAHRPI"
+Expected
+"PINALSIGYAHRPI"
